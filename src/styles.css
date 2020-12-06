@@ -1,0 +1,71 @@
+h1 {
+  margin: 40px auto;
+  font-family: "Oxygen", sans-serif;
+  color: rgb(70, 78, 83);
+}
+h1 li {
+  font-size: 60px;
+}
+h2 {
+  text-align: center;
+  font-size: 62px;
+  margin: 40px;
+  font-family: "Oxygen", sans-serif;
+  color: rgb(70, 78, 83);
+  background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  text-transform: uppercase;
+}
+h3 {
+  text-align: center;
+  color: rgb(70, 78, 83);
+  margin: 40px;
+}
+li {
+  text-align: center;
+  list-style: none;
+}
+h5 {
+  font-size: 30px;
+  font-family: "Advent Pro", sans-serif;
+}
+li {
+  font-size: 24px;
+}
+h1 .weather-icon {
+  font-size: 120px;
+}
+form {
+  text-align: center;
+  margin: 30px auto;
+  font-size: 40px;
+  font-family: "Advent Pro", sans-serif;
+  background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+.row {
+  width: fit-content;
+  margin: 0 auto;
+}
+.col {
+  padding: 0;
+  flex-grow: 0;
+}
+.today-card h5 {
+  font-size: 40px;
+}
+.today-card li {
+  font-size: 32px;
+}
+.card .weather-icon {
+  font-size: 35px;
+}
+.card {
+  background-color: #389393;
+  color: #c3cfe2;
+}
+.row .today-card {
+  background-color: #fa7f72;
+  color: rgb(70, 78, 83);
+}
+.search-icon {
+  background-color: #c3cfe2;
+}
